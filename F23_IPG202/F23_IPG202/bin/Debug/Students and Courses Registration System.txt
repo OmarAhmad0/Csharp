@@ -1,0 +1,6 @@
+test1                 BAIT            X            X            X            X            4
+test2                 BIT             X            X            .            .            2
+test3                 TIC             X            .            .            .            1
+test4                 BAIT            X            X            .            .            2
+test5                 BAIT            .            .            .            .            0
+test6                 TIC             X            X            X            X            4

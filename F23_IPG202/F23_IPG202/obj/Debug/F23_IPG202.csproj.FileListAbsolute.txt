@@ -1,0 +1,14 @@
+C:\Users\magd2\source\repos\F23_IPG202\F23_IPG202\bin\Debug\F23_IPG202.exe.config
+C:\Users\magd2\source\repos\F23_IPG202\F23_IPG202\bin\Debug\F23_IPG202.exe
+C:\Users\magd2\source\repos\F23_IPG202\F23_IPG202\bin\Debug\F23_IPG202.pdb
+C:\Users\magd2\source\repos\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.csproj.AssemblyReference.cache
+C:\Users\magd2\source\repos\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.csproj.CoreCompileInputs.cache
+C:\Users\magd2\source\repos\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.exe
+C:\Users\magd2\source\repos\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.pdb
+C:\Users\Omar Ahmad\Desktop\F23_IPG202\F23_IPG202\bin\Debug\F23_IPG202.exe.config
+C:\Users\Omar Ahmad\Desktop\F23_IPG202\F23_IPG202\bin\Debug\F23_IPG202.exe
+C:\Users\Omar Ahmad\Desktop\F23_IPG202\F23_IPG202\bin\Debug\F23_IPG202.pdb
+C:\Users\Omar Ahmad\Desktop\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.csproj.AssemblyReference.cache
+C:\Users\Omar Ahmad\Desktop\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.csproj.CoreCompileInputs.cache
+C:\Users\Omar Ahmad\Desktop\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.exe
+C:\Users\Omar Ahmad\Desktop\F23_IPG202\F23_IPG202\obj\Debug\F23_IPG202.pdb
