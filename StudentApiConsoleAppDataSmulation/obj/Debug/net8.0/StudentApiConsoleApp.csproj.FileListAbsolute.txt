@@ -1,0 +1,14 @@
+E:\C#\StudentApiConsoleApp\bin\Debug\net8.0\StudentApiConsoleApp.exe
+E:\C#\StudentApiConsoleApp\bin\Debug\net8.0\StudentApiConsoleApp.deps.json
+E:\C#\StudentApiConsoleApp\bin\Debug\net8.0\StudentApiConsoleApp.runtimeconfig.json
+E:\C#\StudentApiConsoleApp\bin\Debug\net8.0\StudentApiConsoleApp.dll
+E:\C#\StudentApiConsoleApp\bin\Debug\net8.0\StudentApiConsoleApp.pdb
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\StudentApiConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\StudentApiConsoleApp.AssemblyInfoInputs.cache
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\StudentApiConsoleApp.AssemblyInfo.cs
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\StudentApiConsoleApp.csproj.CoreCompileInputs.cache
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\StudentApiConsoleApp.dll
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\refint\StudentApiConsoleApp.dll
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\StudentApiConsoleApp.pdb
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\StudentApiConsoleApp.genruntimeconfig.cache
+E:\C#\StudentApiConsoleApp\obj\Debug\net8.0\ref\StudentApiConsoleApp.dll
