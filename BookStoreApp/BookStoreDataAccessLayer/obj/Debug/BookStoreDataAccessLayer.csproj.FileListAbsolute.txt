@@ -1,0 +1,6 @@
+E:\All-Projects\BookStoreApp\BookStoreDataAccessLayer\bin\Debug\BookStoreDataAccessLayer.dll
+E:\All-Projects\BookStoreApp\BookStoreDataAccessLayer\bin\Debug\BookStoreDataAccessLayer.pdb
+E:\All-Projects\BookStoreApp\BookStoreDataAccessLayer\obj\Debug\BookStoreDataAccessLayer.csproj.AssemblyReference.cache
+E:\All-Projects\BookStoreApp\BookStoreDataAccessLayer\obj\Debug\BookStoreDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\All-Projects\BookStoreApp\BookStoreDataAccessLayer\obj\Debug\BookStoreDataAccessLayer.dll
+E:\All-Projects\BookStoreApp\BookStoreDataAccessLayer\obj\Debug\BookStoreDataAccessLayer.pdb

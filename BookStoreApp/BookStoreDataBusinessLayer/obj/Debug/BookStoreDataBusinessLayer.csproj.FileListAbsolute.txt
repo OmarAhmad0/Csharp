@@ -1,0 +1,9 @@
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\bin\Debug\BookStoreDataBusinessLayer.dll
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\bin\Debug\BookStoreDataBusinessLayer.pdb
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\bin\Debug\BookStoreDataAccessLayer.dll
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\bin\Debug\BookStoreDataAccessLayer.pdb
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\obj\Debug\BookStoreDataBusinessLayer.csproj.AssemblyReference.cache
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\obj\Debug\BookStoreDataBusinessLayer.csproj.CoreCompileInputs.cache
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\obj\Debug\BookStor.A0D9446E.Up2Date
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\obj\Debug\BookStoreDataBusinessLayer.dll
+E:\All-Projects\BookStoreApp\BookStoreDataBusinessLayer\obj\Debug\BookStoreDataBusinessLayer.pdb

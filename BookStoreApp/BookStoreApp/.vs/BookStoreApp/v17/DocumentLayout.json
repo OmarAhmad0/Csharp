@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\All-Projects\\BookStoreApp\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85BA3554-F856-4844-83F8-AF303C4C9B55}|..\\BookStoreDataBusinessLayer\\BookStoreDataBusinessLayer.csproj|e:\\all-projects\\bookstoreapp\\bookstoredatabusinesslayer\\clsapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsApplicationType.cs",
+              "DocumentMoniker": "E:\\All-Projects\\BookStoreApp\\BookStoreDataBusinessLayer\\clsApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\BookStoreDataBusinessLayer\\clsApplicationType.cs",
+              "ToolTip": "E:\\All-Projects\\BookStoreApp\\BookStoreDataBusinessLayer\\clsApplicationType.cs",
+              "RelativeToolTip": "..\\BookStoreDataBusinessLayer\\clsApplicationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:25:30.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
